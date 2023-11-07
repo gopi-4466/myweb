@@ -71,7 +71,7 @@
 			<div class="col-md-8">
 				<h4 class="text-center">GANA TECH SOLUTIONS - Consultant,
 					Training, Development Center.</h4>
-				<h4 class="text-center">Contact @ +91-8340901901 </h4>
+				<h4 class="text-center">Contact @ +91-8886599888 </h4>
 				<h5 class="text-center">
 					Copyrights 2020 by <a href="http://ganatechnologies.com/">Gana
 						Technologies</a>
